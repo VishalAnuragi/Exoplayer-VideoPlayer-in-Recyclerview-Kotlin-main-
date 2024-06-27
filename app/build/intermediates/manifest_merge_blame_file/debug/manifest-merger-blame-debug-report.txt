@@ -1,0 +1,56 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.exoplayer"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.google.android.exoplayer:exoplayer-core:2.10.8] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/6e94a0983d544fe3a00fd5c30bbbe57f/jetified-exoplayer-core-2.10.8/AndroidManifest.xml:24:5-79
+12-->[com.google.android.exoplayer:exoplayer-core:2.10.8] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/6e94a0983d544fe3a00fd5c30bbbe57f/jetified-exoplayer-core-2.10.8/AndroidManifest.xml:24:22-76
+13
+14    <application
+14-->/Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:7:5-22:19
+15        android:allowBackup="true"
+15-->/Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:8:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.7.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/c475818a438102af085c19446a28f37e/core-1.7.0/AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->/Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:9:9-43
+19        android:label="@string/app_name"
+19-->/Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:10:9-41
+20        android:networkSecurityConfig="@xml/network_security_config"
+20-->/Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:11:9-69
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->/Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:12:9-54
+22        android:supportsRtl="true"
+22-->/Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:13:9-35
+23        android:testOnly="true"
+24        android:theme="@style/AppTheme" >
+24-->/Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:14:9-40
+25        <activity android:name="com.example.exoplayer.MainActivity" >
+25-->/Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:15:9-21:20
+25-->/Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:15:19-47
+26            <intent-filter>
+26-->/Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:16:13-20:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->/Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:17:17-69
+27-->/Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:17:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->/Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:19:17-77
+29-->/Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:19:27-74
+30            </intent-filter>
+31        </activity>
+32    </application>
+33
+34</manifest>

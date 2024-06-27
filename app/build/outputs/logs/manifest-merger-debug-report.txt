@@ -1,0 +1,192 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/0c9d27a233758ef602e9bdc832688627/constraintlayout-2.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/31faf8ece59122088376c8cbadec9483/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/c23fbec135fe31658a24c7764fdb5b63/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.10.8] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/61556c45010a05b912ee02d5e903f3c3/jetified-exoplayer-2.10.8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/705f06de7c98dcdaabb83b3466b10c6e/jetified-glide-4.9.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.0-alpha01] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/274e555b596add6a1c6acf3883e96210/recyclerview-1.3.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/bdcc38fc9b2f4c2a1202d476dfaae631/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/87429df8d0f0248ce0e94d33881871b0/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/0c56ca3edd7bd913ff1bd49cb89919e4/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/db883a8f9d936d24e2ecbe656963a463/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/7f81a170dd7d5e34378f2004e821a69c/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/ae31a6a6cdba5e910d2e2a9fa7d5ed77/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/ea3a8a8bbdb00c293b38047d9d6a69f6/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/2da57a846eb254cf7983ca1bff823912/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/c229c3ad9849a32a34b127aadc85a486/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/f540560109c9dd32dfe73b57236bfc2a/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/4d1c944efd7692a8858c00288259d7df/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/5100f0268c6b31a4dba7fb207f531946/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.10.8] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/ae93ced7d218803320928193ebddd3ad/jetified-exoplayer-ui-2.10.8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/82734ae369644630d79a82f233885dd7/media-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/c475818a438102af085c19446a28f37e/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/b93a750da5e8e4bb6f57645337c5e7cc/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/bd578ddaec3bafbfdef760c351a346c8/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.10.8] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/669f33673fe9123e21cc8feaf0834d22/jetified-exoplayer-dash-2.10.8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.10.8] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/05b5fe041906467daa07650daff76213/jetified-exoplayer-hls-2.10.8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.10.8] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/d9b560a0585fc41f0e6e7af713340138/jetified-exoplayer-smoothstreaming-2.10.8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.8] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/6e94a0983d544fe3a00fd5c30bbbe57f/jetified-exoplayer-core-2.10.8/AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/db2ebe005e67ccaf9140a84edbe70792/jetified-gifdecoder-4.9.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/bed6eb3cf4e60b66f1744cca6878691d/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/d926236e4835c82270fbbde8cb3174e1/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/714540b03c38d0c2d8223ab65de25d67/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/195ee2b7a31b0b96c67640837322cceb/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/0200ef8026411e187eadb1f230baebf2/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/4b3457d7c1d57479045e256e0d54daad/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/00201901a8040132ef038208f3dae89c/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/0c9d27a233758ef602e9bdc832688627/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/0c9d27a233758ef602e9bdc832688627/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/705f06de7c98dcdaabb83b3466b10c6e/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/705f06de7c98dcdaabb83b3466b10c6e/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.7.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/c475818a438102af085c19446a28f37e/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/c475818a438102af085c19446a28f37e/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/db2ebe005e67ccaf9140a84edbe70792/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/db2ebe005e67ccaf9140a84edbe70792/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/d926236e4835c82270fbbde8cb3174e1/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/d926236e4835c82270fbbde8cb3174e1/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/c475818a438102af085c19446a28f37e/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:14:9-40
+	android:networkSecurityConfig
+		ADDED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:11:9-69
+activity#com.example.exoplayer.MainActivity
+ADDED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/0c9d27a233758ef602e9bdc832688627/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/0c9d27a233758ef602e9bdc832688627/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/31faf8ece59122088376c8cbadec9483/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/31faf8ece59122088376c8cbadec9483/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/c23fbec135fe31658a24c7764fdb5b63/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/c23fbec135fe31658a24c7764fdb5b63/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.10.8] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/61556c45010a05b912ee02d5e903f3c3/jetified-exoplayer-2.10.8/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.10.8] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/61556c45010a05b912ee02d5e903f3c3/jetified-exoplayer-2.10.8/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/705f06de7c98dcdaabb83b3466b10c6e/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/705f06de7c98dcdaabb83b3466b10c6e/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.recyclerview:recyclerview:1.3.0-alpha01] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/274e555b596add6a1c6acf3883e96210/recyclerview-1.3.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.3.0-alpha01] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/274e555b596add6a1c6acf3883e96210/recyclerview-1.3.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/bdcc38fc9b2f4c2a1202d476dfaae631/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/bdcc38fc9b2f4c2a1202d476dfaae631/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/87429df8d0f0248ce0e94d33881871b0/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/87429df8d0f0248ce0e94d33881871b0/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/0c56ca3edd7bd913ff1bd49cb89919e4/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/0c56ca3edd7bd913ff1bd49cb89919e4/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/db883a8f9d936d24e2ecbe656963a463/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/db883a8f9d936d24e2ecbe656963a463/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/7f81a170dd7d5e34378f2004e821a69c/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/7f81a170dd7d5e34378f2004e821a69c/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/ae31a6a6cdba5e910d2e2a9fa7d5ed77/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/ae31a6a6cdba5e910d2e2a9fa7d5ed77/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/ea3a8a8bbdb00c293b38047d9d6a69f6/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/ea3a8a8bbdb00c293b38047d9d6a69f6/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/2da57a846eb254cf7983ca1bff823912/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/2da57a846eb254cf7983ca1bff823912/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/c229c3ad9849a32a34b127aadc85a486/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/c229c3ad9849a32a34b127aadc85a486/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/f540560109c9dd32dfe73b57236bfc2a/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/f540560109c9dd32dfe73b57236bfc2a/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/4d1c944efd7692a8858c00288259d7df/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/4d1c944efd7692a8858c00288259d7df/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/5100f0268c6b31a4dba7fb207f531946/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/5100f0268c6b31a4dba7fb207f531946/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.10.8] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/ae93ced7d218803320928193ebddd3ad/jetified-exoplayer-ui-2.10.8/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.10.8] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/ae93ced7d218803320928193ebddd3ad/jetified-exoplayer-ui-2.10.8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/82734ae369644630d79a82f233885dd7/media-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/82734ae369644630d79a82f233885dd7/media-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/c475818a438102af085c19446a28f37e/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/c475818a438102af085c19446a28f37e/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/b93a750da5e8e4bb6f57645337c5e7cc/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/b93a750da5e8e4bb6f57645337c5e7cc/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/bd578ddaec3bafbfdef760c351a346c8/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/bd578ddaec3bafbfdef760c351a346c8/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.10.8] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/669f33673fe9123e21cc8feaf0834d22/jetified-exoplayer-dash-2.10.8/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.10.8] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/669f33673fe9123e21cc8feaf0834d22/jetified-exoplayer-dash-2.10.8/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.10.8] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/05b5fe041906467daa07650daff76213/jetified-exoplayer-hls-2.10.8/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.10.8] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/05b5fe041906467daa07650daff76213/jetified-exoplayer-hls-2.10.8/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.10.8] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/d9b560a0585fc41f0e6e7af713340138/jetified-exoplayer-smoothstreaming-2.10.8/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.10.8] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/d9b560a0585fc41f0e6e7af713340138/jetified-exoplayer-smoothstreaming-2.10.8/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.8] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/6e94a0983d544fe3a00fd5c30bbbe57f/jetified-exoplayer-core-2.10.8/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.8] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/6e94a0983d544fe3a00fd5c30bbbe57f/jetified-exoplayer-core-2.10.8/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/db2ebe005e67ccaf9140a84edbe70792/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/db2ebe005e67ccaf9140a84edbe70792/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/bed6eb3cf4e60b66f1744cca6878691d/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/bed6eb3cf4e60b66f1744cca6878691d/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/d926236e4835c82270fbbde8cb3174e1/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/d926236e4835c82270fbbde8cb3174e1/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/714540b03c38d0c2d8223ab65de25d67/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/714540b03c38d0c2d8223ab65de25d67/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/195ee2b7a31b0b96c67640837322cceb/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/195ee2b7a31b0b96c67640837322cceb/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/0200ef8026411e187eadb1f230baebf2/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/0200ef8026411e187eadb1f230baebf2/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/4b3457d7c1d57479045e256e0d54daad/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/4b3457d7c1d57479045e256e0d54daad/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/00201901a8040132ef038208f3dae89c/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/00201901a8040132ef038208f3dae89c/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vishal.anuragi/Downloads/Exoplayer-VideoPlayer-in-Recyclerview-Kotlin-main/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.10.8] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/6e94a0983d544fe3a00fd5c30bbbe57f/jetified-exoplayer-core-2.10.8/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.10.8] /Users/vishal.anuragi/.gradle/caches/transforms-2/files-2.1/6e94a0983d544fe3a00fd5c30bbbe57f/jetified-exoplayer-core-2.10.8/AndroidManifest.xml:24:22-76
